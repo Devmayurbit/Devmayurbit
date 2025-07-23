@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=590EF7&center=true&vCenter=true&width=435&lines=Web+Developer;MERN+Stack+Learner;Java+Backend+Enthusiast;Real+World+Project+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=590EF7&center=true&vCenter=true&width=435&lines=Web+Developer;MERN+Stack+Learner;Java+Backend+Enthusiast)](https://git.io/typing-svg)
 
 # 💫 About Me:
 I'm currently learning **Advanced Java** and diving into **backend development**.  
